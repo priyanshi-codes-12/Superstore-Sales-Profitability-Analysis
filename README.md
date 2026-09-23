@@ -41,3 +41,7 @@ CSV Dataset → Excel Data Cleaning → PostgreSQL → SQL Analysis → Power BI
 ## Dashboard
 
 The Power BI dashboard provides an interactive view of sales, profit, category performance, sub-category profitability, monthly sales trends, and regional performance.
+
+## Dashboard Preview
+
+![Superstore Dashboard](dashboard.png)
